@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ezzadeen Saeed
 
-<!--
-**ezzadeen-saeed/Ezzadeen-saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Networking Student
 
-Here are some ideas to get you started:
+## About Me
+- I am a beginner learning cybersecurity and computer networking.
+- I am building practical knowledge through documented labs and study notes.
+- I am interested in network fundamentals, Linux, and defensive security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning Goals
+- Networking fundamentals: TCP/IP, DNS, DHCP, and subnetting
+- Linux command line and system fundamentals
+- Security fundamentals and safe lab environments
+
+## My Projects
+- Networking Fundamentals Notes — coming soon
+- Linux Learning Notes — coming soon
+- Cybersecurity Lab Reports — coming soon
+
+## Approach
+I document what I learn, practice in authorized environments, and improve through consistent hands-on work.
